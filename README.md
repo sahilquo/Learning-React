@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Commands used in the Projects
+`npx json-server --watch <file-path for .json> --port 8000` : This is used to create local server using local json file for network requests.
+`npm install react-router-dom@<latest-stable-version>` : This is used to install package for Routing between screens.
