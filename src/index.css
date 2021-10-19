@@ -48,3 +48,18 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+.blog-preview button {
+  margin: 8px;
+  background-color: rgb(238, 4, 4);
+  color: #f2f2f2;
+  border: 1px solid #fafafa;
+  border-radius: 6px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.blog-preview button:hover {
+  background-color: rgb(187, 2, 2);
+}
