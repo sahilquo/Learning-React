@@ -31,7 +31,7 @@ const useFetch = (url) => {
                         setErrorMessage(err.message);
                     }
                 });
-        }, 1000);
+        }, 0);
 
         return () => {
             console.log('Cleanup');
