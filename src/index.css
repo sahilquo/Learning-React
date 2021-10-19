@@ -63,3 +63,25 @@
 .blog-preview button:hover {
   background-color: rgb(187, 2, 2);
 }
+
+.blog-preview a {
+  text-decoration: none;
+}
+
+/* blog details page */
+.blog-detail h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+.blog-detail div {
+  margin: 20px 0;
+}
+.blog-detail button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
